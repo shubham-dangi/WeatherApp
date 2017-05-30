@@ -15,10 +15,10 @@ API USED	:	Open Weather Map API
 
 How to Run application:
 
-open cmd/commond prompt
+open cmd/command prompt
 Go to the folder location
 
-Run commond:
+Run command:
 
 npm install
 
