@@ -24,7 +24,7 @@ class App extends Component
     this.setState({tb: true});
     $.ajax({
     
-    url: "http://api.openweathermap.org/data/2.5/forecast?q="+cityname+"&appid=b1b15e88fa797225412429c1c50c122a1",
+    url: "http://api.openweathermap.org/data/2.5/forecast?q="+cityname+"&appid=e3ecc901824c48cabe7f3a3a01e6defb",
     type: "GET",
     crossDomain: true,
     dataType: 'JSON',
